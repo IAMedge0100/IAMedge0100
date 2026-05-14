@@ -70,7 +70,7 @@ Automation and administration tooling using:
 
 - CompTIA Security+ (2024)
 - SC-300: Microsoft Identity and Access Administrator (In Progress)
-- Cisco CCNA (Expected 2026)
+- Cisco CCNA (2026)
 
 ---
 
